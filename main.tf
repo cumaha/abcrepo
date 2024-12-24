@@ -4,7 +4,7 @@ terraform {
     organization = "mahatest" 
 
     workspaces { 
-      name = "dev-env" 
+      name = "abcrepo" 
     } 
   } 
 }
